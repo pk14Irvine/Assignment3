@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\Shashi\source\repos\Assignment3\Assignment3\Animal.h(130,15): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Shashi\source\repos\Assignment3\Assignment3\Animal.h(145,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Shashi\source\repos\Assignment3\Assignment3\Source.cpp(17,32): warning C4305: 'argument': truncation from 'double' to 'float'
+  Assignment3.vcxproj -> C:\Users\Shashi\source\repos\Assignment3\Debug\Assignment3.exe
